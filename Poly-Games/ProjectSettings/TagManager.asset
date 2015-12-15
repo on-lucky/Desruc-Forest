@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - pereBody
+  - aura
+  - buisson
+  - filleBody
+  - vine
+  - pere
+  - bouton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - "P\xE8re"
+  - Corrupted
+  - Corrupted_Collision
+  - Uncorrupted
+  - Uncorrupted_Collision
+  - Changeable
+  - Changeable_Collision
+  - Fille
+  - Bloc_Collision
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Corrupted_level
+    uniqueID: 3647065341
+    locked: 0
+  - name: Player
+    uniqueID: 1138320657
+    locked: 0
+  - name: Foreground
+    uniqueID: 669416469
+    locked: 0
